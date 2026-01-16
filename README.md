@@ -2,15 +2,24 @@
 
 ## Executive Summary
 
-HomeStyle is a multi-city home décor and home utility retailer offering a wide range of products across furniture, lighting, storage, kitchen, and furnishing categories. As the business expanded across regions, store formats, and customer segments, leadership needed a consolidated analytical view to understand how customers shop, which products and cities drive profitability, and how discounts, promotions, and financing influence revenue. This project brings together customer, sales, product, payment, and operational data into an integrated analytics model to support strategic, data-driven decision-making across the organization.
+HomeStyle is a multi-category **home decor and home utility retailer** operating across cities, regions, store formats, and customer segments. This project analyses **customers, sales, products, payments, and operations** to provide a single analytical view of **revenue performance, profitability, customer behavior, and operational efficiency**. Using structured transactional data, the analysis supports **executive decision-making**, highlights **growth drivers**, and identifies **risk areas** across geography, loyalty tiers, product value bands, and store formats.
 
 
 ## Business Problem
 
-HomeStyle faced challenges in clearly identifying its strongest customer segments, high-performing cities and regions, and the true profitability of its product portfolio. Sales data existed across multiple dimensions such as store type, brand, loyalty tier, and payment method, but lacked a unified structure for analysis. Leadership needed clarity on repeat versus one-time customers, the impact of promotions and discounts on profit margins, regional sales concentration, and operational performance indicators such as delivery timelines. Without a centralized analytical layer, decision-making around inventory planning, pricing strategy, store expansion, and customer retention remained largely reactive rather than insight-driven.
+As HomeStyle expanded its product range and regional footprint, decision-making became fragmented across teams. Leadership lacked a consolidated view of **net sales, profit margins, customer repeat behavior, promotion impact, and delivery performance**. Questions around **which cities, store types, customer segments, and product categories drive sustainable profit** remained unanswered. This project addresses the need for a **centralized analytics layer** to transform raw transactional data into **actionable business insights**.
 
-## Dataset Used
+
+## Dataset Overview
+* **Customers**: 4,800 rows × 6 columns
+* **Orders**: 6,577 rows × 17 columns
+* **Products**: 4,200 rows × 10 columns
+* **Payments**: 1,096 rows × 13 columns
+* **Geography**: 100 rows × 20 columns
+* **Total Dataset Size**: **16,773 rows × 66 columns**
+
 ![image alt](https://github.com/ApoorvaIyerKcl/Homestyle-PowerBI/blob/36874212531048c291eb5eeaa09b077dfede6ffc/Dashboard%20Images/Dataset%20Table.png)
+
 
 ## Dashboard Insights
 
