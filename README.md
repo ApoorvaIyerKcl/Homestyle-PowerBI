@@ -17,7 +17,7 @@ As HomeStyle expanded its product range and regional footprint, decision-making 
 
 ## Dashboard Insights
 
-## Dataset Overview
+### Dataset Overview
 * **Customers**: 4,800 rows × 6 columns
 * **Orders**: 6,577 rows × 17 columns
 * **Products**: 4,200 rows × 10 columns
